@@ -16,19 +16,19 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
-global.owner = ['967771160204'] //ur owner number
-global.ownername = "🎭◤𝙀𝙈𝙋𝙀𝙍𝙊𝙍🦂𝘼𝙉𝙐𝙎◢🎭" //ur owner name
+global.owner = ['218911172314'] //ur owner number
+global.ownername = "🎭◤【♣️ᗪᗩᖇK⊰❄️⊱ՏᑎOᗯ♣️】  ◢🎭" //ur owner name
 global.ytname = "YT: kavee" //ur yt chanel name
 global.socialm = "Dark Nero" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 
 //bot bomdy 
-global.ownernomer = "967771160204" //ur number
-global.premium = ['967771160204'] //ur premium number
-global.botname = '🎭الامبراطور انوس 🎭MD V7' //ur bot name
-global.linkz = "https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/@emperoranus7621" //ur website to be displayed
-global.botscript = 'https://github.com/vhhvf/DARKNERO--V7' //script link
+global.ownernomer = "218911172314" //ur number
+global.premium = ['218911172314'] //ur premium number
+global.botname = '【♣️ᗪᗩᖇK⊰❄️⊱ՏᑎOᗯ♣️】   🎭MD V7' //ur bot name
+global.linkz = "" //your theme url which will be displayed on whatsapp
+global.websitex = "" //ur website to be displayed
+global.botscript = '' //script link
 global.themeemoji = "🐨" //ur theme emoji
 global.packname = "Sticker By Dark Nero🐨" //ur sticker watermark packname
 global.author = "Dark Nero\n\n\nA whatsapp bot developed by\n🐨Cyber X Team" //ur sticker watermark author
